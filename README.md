@@ -4,7 +4,7 @@
 This project analyzes a leading retail company’s customer behavior dataset to uncover shopping patterns, customer preferences, and factors that influence repeat purchases. The goal is to provide actionable insights to improve sales, customer engagement, and marketing strategies.
 
 ## Key business question:  
-*"How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?"*
+*How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?*
 
 ## Dataset
 The dataset includes transactional and customer information such as:
